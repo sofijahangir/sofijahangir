@@ -1,7 +1,7 @@
 ### Hi there, I'm Jahangir - aka [SPY3Y3][website] 👋
 
 [![Website](https://img.shields.io/website?label=sofijahangir.github.io&style=for-the-badge&url=https%3A%2F%2Fsofijahangir.github.io)](https://sofijahangir.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SPY3Y3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspy3y3&screen_name=jspfi502)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SPY3Y3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspy3y3&screen_name=jsofi502)
 
 ## I'm a Student, Son, Developer, and Coder!
 
