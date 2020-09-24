@@ -43,9 +43,7 @@
 <br />
 <br />
 
-### Pins
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=github-readme-stats)](https://github.com/sofijahangir/github-readme-stats)
----
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
