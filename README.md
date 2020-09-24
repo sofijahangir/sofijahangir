@@ -40,6 +40,12 @@
 ### :notebook_with_decorative_cover: Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&layout=compact)](https://github.com/sofijahangir/github-readme-stats)
 ---
+<br />
+<br />
+
+### Pins
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=github-readme-stats)](https://github.com/sofijahangir/github-readme-stats)
+---
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
