@@ -37,7 +37,9 @@
 <br />
 
 ---
-
+### Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&layout=compact)](https://github.com/sofijahangir/github-readme-stats)
+---
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
