@@ -37,7 +37,7 @@
 <br />
 
 ---
-### Top Languages Used
+### :notebook_with_decorative_cover: Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&layout=compact)](https://github.com/sofijahangir/github-readme-stats)
 ---
 ### 📕 Latest Blog Posts
