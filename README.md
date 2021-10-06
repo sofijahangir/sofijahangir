@@ -1,4 +1,4 @@
-### Hi there, I'm Jahangir - aka [SPY3Y3][https://www.linkedin.com/in/jahangir-ahmad-8486b789/] 👋
+### Hi there, I'm Jahangir - aka [SPY3Y3] 👋
 
 ## I'm a Student, Developer, and Coder!
 
