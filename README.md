@@ -24,8 +24,6 @@
 - Lear er at [School of Accelerated Learning](https://www.soal.io)
 - Loves gardening
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
-
 ### Hi there, I'm Jahangir - aka [SPY3Y3][website] 👋
 
 ## I'm a Student, Developer, and Coder!
