@@ -1,59 +1,26 @@
-### Hi there, I'm Jahangir - aka [SPY3Y3] 👋
+<h1 align="center">Hi 👋, I'm Jahangir Ahmad</h1>
+<h3 align="center">A passionate SOAL Learner from Kashmir</h3>
 
-## I'm a Student, Developer, and Coder!
+- 🔭 I’m currently working on **today-i-learned**
 
----
+- 🌱 I’m currently learning **everything**
 
-- 🌱 I’m currently learning everything 🤣
+- 📄 Know about my experiences [https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing](https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing)
 
-- ⚡ Fun fact: I love gardening
+- ⚡ Fun fact **I love gardening**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jahangir-ahmad-8486b789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahangir-ahmad-8486b789" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17094465/jahangir-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17094465/jahangir-ahmad" height="30" width="40" /></a>
+<a href="https://fb.com/spy3y3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spy3y3" height="30" width="40" /></a>
+</p>
 
-### Connect with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="Jahangir Ahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SPY3Y3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofijahangir&show_icons=true&locale=en&layout=compact" alt="sofijahangir" /></p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&locale=en" alt="sofijahangir" /></p>
 
-<!-- ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br /> -->
-
-<!-- --- -->
-
-<!-- ### :notebook_with_decorative_cover: Top Languages Used
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&layout=compact)](https://github.com/sofijahangir/github-readme-stats)
-
-<br />
-<br /> -->
-
----
-
- <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sofijahangir&theme=darcula&hide_border=true&background=FFFFFF00">
-
-[website]: https://sofijahangir.github.io
-[twitter]: https://twitter.com/jsofi502
-[instagram]: https://instagram.com/spy3y3
-[linkedin]: https://linkedin.com/in/jahangir-ahmad-8486b789
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofijahangir&" alt="sofijahangir" /></p>
