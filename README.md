@@ -17,7 +17,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&count_private=true" /></td>
     </tr>  
     <tr>
-      <td colspan="2"><img align="center" width="100%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=sofijahangir&theme=dark" alt="Jahangir Ahamd" /></td>
+      <td colspan="2"><img align="center" width="100%" height="70px" src="https://github-readme-streak-stats.herokuapp.com/?user=sofijahangir&theme=dark" alt="Jahangir Ahamd" /></td>
     </tr>
   </table>
 </center>
