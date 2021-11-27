@@ -1,7 +1,7 @@
 ### Hello World 🐱‍💻 I'm
 
 <p align="center">
-  <img src="./banner.png"width="1280" title="Readme Banner">
+  <img src="./banner 3.png"width="1280" title="Readme Banner">
 </p>
 
 <br>
