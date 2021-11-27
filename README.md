@@ -1,10 +1,7 @@
 ### Hello World 🐱‍💻 
+### I'm Jahangir <br>
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jahangir-ahmad-8486b789/)](https://www.linkedin.com/in/jahangir-ahmad-8486b789/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/sofijahangir/)](https://github.com/jjeanjacques10/)
-
-<img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
-
-<p align="left"> 
-Software Engineer and content creator. In the last year of the Information Systems course at FIAP. Gold Microsoft Learn Student Ambassador, I've been sharing knowledge through articles, videos and lectures on technology and education topics. I have been learning about Software Architecture, Java Spring and Cloud Technology. <br> <br>
+<br>
 
 💻 MERN stack aspirant at [SOAL](https://www.soal.io/)<br>
 👨‍💻 Looking for open source to contribute<br>
