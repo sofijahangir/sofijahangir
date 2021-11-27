@@ -1,4 +1,7 @@
 ### Hello World 🐱‍💻 
+<p align="center">
+  <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/resume-banner-confetti.jpg" width="1280" title="Readme Banner">
+</p>
 ### I'm Jahangir <br>
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jahangir-ahmad-8486b789/)](https://www.linkedin.com/in/jahangir-ahmad-8486b789/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/sofijahangir/)](https://github.com/jjeanjacques10/)
 <br>
