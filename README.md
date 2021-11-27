@@ -15,6 +15,9 @@
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&count_private=true" /></td>
-    </tr>   
+    </tr>  
+    <tr>
+      <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></td>
+    </tr>
   </table>
 </center>
