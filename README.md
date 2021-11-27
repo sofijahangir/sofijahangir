@@ -17,7 +17,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&count_private=true" /></td>
     </tr>  
     <tr>
-      <td colspan=2><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></td>
+      <td colspan=4><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></td>
     </tr>
   </table>
 </center>
