@@ -48,12 +48,12 @@
         <td><a href="https://github.com/sofijahangir/sofijahangir">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=sofijahangir&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-       <td><a href="https://github.com/sofijahangir/sofijahangir">
+       <td><a href="https://github.com/sofijahangir/100DaysOfCode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=100DaysOfCode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
     </tr>  
     <tr>
-      <td><a href="https://github.com/sofijahangir/sofijahangir">
+      <td><a href="https://github.com/sofijahangir/today-i-learned">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=today-i-learned&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
       <td><a href="https://github.com/sofijahangir/sofijahangir">
