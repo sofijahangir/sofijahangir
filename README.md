@@ -20,7 +20,7 @@
 
 <p align="center">
 
-- 💻 MERN stack aspirant at [SOAL](https://www.soal.io/)<br>
+- 💻 MERN stack aspirant at [SOAL](https://www.schoolofacceleratedlearning.com/)<br>
 - 👨‍💻 Looking for open source to contribute<br>
 
 - 🌱 I’m currently learning **everything**
