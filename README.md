@@ -70,11 +70,11 @@
 <center>
   <table>
     <tr>
-        <td><a href="https://github.com/braydoncoyer">
+        <td><a href="https://github.com/sofijahangir">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-        <td><a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+        <td><a href="https://github.com/sofijahangir">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Jahangir's GitHub Stats" />
 </a></td>
     </tr>  
     <tr>
