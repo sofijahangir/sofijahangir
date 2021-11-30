@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning **everything**
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing](https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing/)<br>
-  
+ - 📄 Know about my [Experiences](https://www.soal.io/)<br>
 - ⚡ Fun fact **I love gardening** <br>
 
 </p>
