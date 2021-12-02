@@ -2,7 +2,7 @@
 <!-- ### Hello World 🐱‍💻 I'm -->
 
 <p align="center">
-  <img src="./Banner 3.png"width="1280" title="Readme Banner">
+  <img src="./Terminal Snapshot.png"width="1280" title="Readme Banner">
 </p>
 
 <br>
