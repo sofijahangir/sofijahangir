@@ -20,13 +20,12 @@
 
 <p align="center">
 
-- 💻 MERN stack aspirant at [SOAL](https://www.soal.io/)<br>
+- 💻 MERN stack aspirant at [SOAL](https://www.schoolofacceleratedlearning.com/)<br>
 - 👨‍💻 Looking for open source to contribute<br>
 
 - 🌱 I’m currently learning **everything**
 
-- 📄 Know about my [Experiences](<[https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing](https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing)>)
-
+ - 📄 Know about my [Experiences](https://drive.google.com/file/d/12xo_w9FdwJD6-HGd7uNR8ejArz_xA4X9/view?usp=sharing)
 - ⚡ Fun fact **I love gardening** <br>
 
 </p>
@@ -49,16 +48,16 @@
         <td><a href="https://github.com/sofijahangir/sofijahangir">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=sofijahangir&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-       <td><a href="https://github.com/sofijahangir/sofijahangir">
+       <td><a href="https://github.com/sofijahangir/100DaysOfCode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=100DaysOfCode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
     </tr>  
     <tr>
-      <td><a href="https://github.com/sofijahangir/sofijahangir">
+      <td><a href="https://github.com/sofijahangir/today-i-learned">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=today-i-learned&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-      <td><a href="https://github.com/sofijahangir/sofijahangir">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=sofijahangir&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      <td><a href="https://github.com/sofijahangir/MCA-Capstone">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sofijahangir&repo=MCA-Capstone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
     </tr>
   </table>
@@ -71,11 +70,11 @@
 <center>
   <table>
     <tr>
-        <td><a href="https://github.com/braydoncoyer">
+        <td><a href="#">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijahangir&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a></td>
-        <td><a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+        <td><a href="#">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sofijahangir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Jahangir's GitHub Stats" />
 </a></td>
     </tr>  
     <tr>
