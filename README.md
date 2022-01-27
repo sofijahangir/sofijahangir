@@ -39,7 +39,7 @@
 <br>
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/16058244/jahangir-ahmad) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=sofijahangir"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=16058244)](https://stackoverflow.com/users/users/17094465/jahangir-ahmad) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=sofijahangir"/>|
 |---|---|
  
  ---
