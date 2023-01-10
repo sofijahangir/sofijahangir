@@ -6,3 +6,5 @@ npm run build
 
 zip -q -r bin.zip bin/
 # test commit
+
+# test
